@@ -1,0 +1,10 @@
+Proxy settings:
+# host_ip=0.0.0.0
+# redirection_port=4444
+# cmd_port=6446
+# wake_up_port=8448
+# active_protocol_port=7447
+# rm_pcs_ip_check_port=9449
+# cmd_passwd_number_of_tries = 3
+# default_protocol = ssh
+# protocols_available = (ssh, telnet, vnc)
