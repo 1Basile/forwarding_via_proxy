@@ -30,7 +30,7 @@ class Redirection:
         self.session = None
         self.remote_pc = None
         self.conn_rm_machines = {}  # {(ip, port): socket}
-        self.rm_pc_ips = ('192.168.1.110',)
+        self.rm_pc_ips = ('192.168.1.xxx',)
         self.client = None
         self.conn_clients = {}
         self.unauth_cmd_conn = {}
