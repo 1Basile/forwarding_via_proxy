@@ -4,7 +4,7 @@ import time
 from port_forwarder import Tunnel
 
 
-HOST = '192.168.1.111'  # The server's hostname or IP address
+HOST = '192.168.1.xxx'  # The server's hostname or IP address
 PORT = 4444  # The port used by the server
 PROTOCOLL_PORT = 7447
 
